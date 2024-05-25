@@ -11,13 +11,13 @@ Este é um projeto simples em Laravel que demonstra um CRUD (Create, Read, Updat
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/daniellopesjp/laravel-crud.git
+git clone https://github.com/daniellopesjp/crud-laravel.git
 ```
 
 2. Navegue até o diretório do projeto:
 
 ```bash
-cd seuprojeto
+cd crud-laravel
 ```
 
 3. Instale as dependências do Composer:
