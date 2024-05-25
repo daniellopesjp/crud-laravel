@@ -1,0 +1,60 @@
+# Arquivos de compilação #
+*.out
+*.o
+*.obj
+*.class
+
+# Arquivos de execução #
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Arquivos temporários #
+*.swp
+*~
+.DS_Store
+
+# Logs e Arquivos de dados #
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+
+# Arquivos de dependências #
+node_modules/
+vendor/
+
+# Ambientes de desenvolvimento #
+.env
+.env.local
+.env.*.local
+.env.development
+.env.test
+.env.production
+.env.local
+.env*.local
+
+# Arquivos de configuração #
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de compilação para linguagens específicas #
+*.pyc
+*.pyo
+*.jar
+*.war
+*.ear
+
+# Arquivos de IDE #
+.idea/
+.vscode/
+
+# Outros #
+logs/
+*.bak
+*.swp
+Thumbs.db
+
