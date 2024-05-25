@@ -52,7 +52,7 @@ php artisan migrate
 php artisan serve
 ```
 
-8. Acesse o aplicativo em seu navegador usando o endereço local gerado pelo servidor de desenvolvimento (por padrão, http://localhost:8000).
+8. Acesse o aplicativo em seu navegador usando o endereço local gerado pelo servidor de desenvolvimento (rota criada, http://localhost:8000/livros).
 
 ## Nota
 
